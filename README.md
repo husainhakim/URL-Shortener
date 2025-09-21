@@ -45,15 +45,18 @@ Users must sign up and log in to access most features, ensuring each user's data
 <pre><code>git clone https://github.com/husainhakim/URL-Shortener.git</code></pre>
 
 <h3>Step 2: Navigate to the Folder</h3>
+<pre><code>cd path/of/the/folder </code></pre>
+
+<h3>Step 3: Navigate to the Backend Folder</h3>
 <pre><code>cd backend</code></pre>
 
-<h3>Step 3: Download the Dependencies</h3>
+<h3>Step 4: Download the Dependencies</h3>
 <pre><code>npm install</code></pre>
 
-<h3>Step 4: Make .env file</h3>
+<h3>Step 5: Make .env file</h3>
 <pre><code>touch .env</code></pre>
 
-<h3>Step 5: Add the following variables to <code>.env</code></h3>
+<h3>Step 6: Add the following variables to <code>.env</code></h3>
 <pre><code>
 PORT=
 DB_URL= 
@@ -61,7 +64,7 @@ JWT_SECRET=
 JWT_Expiry_Time=
 </code></pre>
 
-<h3>Step 6: Run the Project</h3>
+<h3>Step 7: Run the Project</h3>
 <pre><code>npm start</code></pre>
 
 <h2 id="diagram">Diagram</h2>

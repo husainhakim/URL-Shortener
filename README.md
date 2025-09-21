@@ -153,7 +153,7 @@ JWT_Expiry_Time=
 
 <h2 id="documentation">Documentation</h2>
 <p>
-📄 Want to view the full documentation on Google Docs? Click <a href="https://docs.google.com/document/d/1cc1gW_QO2sfVe7tN0NbxcEdrXDNactshy4GMEYIvUrM/edit?usp=sharing" target="_blank">here</a>.
+ Want to view the full documentation on Google Docs Click <a href="https://docs.google.com/document/d/1cc1gW_QO2sfVe7tN0NbxcEdrXDNactshy4GMEYIvUrM/edit?usp=sharing" target="_blank">here</a>.
 </p>
 
-
+<h2 >Thank You</h2>

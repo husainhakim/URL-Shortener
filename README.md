@@ -77,7 +77,7 @@ JWT_Expiry_Time=
     <th>Endpoint</th>
     <th>Description</th>
     <th>Auth Required</th>
-    <th>Request Body / Notes</th>
+    <th>Example Request Body / Notes</th>
   </tr>
   <tr>
     <td>POST</td>

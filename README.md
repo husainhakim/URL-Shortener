@@ -57,6 +57,9 @@ JWT_Expiry_Time=
 <h3>Step 6: Run the Project</h3>
 <pre><code>npm start</code></pre>
 
+<p align="center">
+  <img src="URL_Shortener_Diagram.png" alt="URL Shortener Diagram" width="900">
+</p>
 <h2>Endpoints</h2>
 
 | Method | Endpoint | Description | Auth Required | Request Body / Notes |

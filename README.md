@@ -58,7 +58,7 @@ JWT_Expiry_Time=
 <pre><code>npm start</code></pre>
 
 <p align="center">
-  <img src="URL_Shortener_Diagram.png" alt="URL Shortener Diagram" width="900">
+  <img src="URL_Shortener.png" alt="URL Shortener Diagram" width="900">
 </p>
 <h2>Endpoints</h2>
 

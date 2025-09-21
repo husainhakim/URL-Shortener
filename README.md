@@ -7,9 +7,9 @@ It allows users to create short links, manage them, and track analytics securely
 Users must sign up and log in to access most features, ensuring each user's data is private and secure.
 </p>
 
-<p>
+<h3><b>
 📄 If you want to view the documentation on Google Docs, you can click <a href="https://docs.google.com/document/d/1cc1gW_QO2sfVe7tN0NbxcEdrXDNactshy4GMEYIvUrM/edit?usp=sharing" target="_blank">here</a>.
-</p>
+</h3></b>
 
 <h2>Features</h2>
 <ul>
